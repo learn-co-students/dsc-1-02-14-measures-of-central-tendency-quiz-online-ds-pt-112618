@@ -1,6 +1,8 @@
 
 # Measures of Central Tendency - Quiz
-## SWBATs
+
+## Objectives
+You will be able to:
 * Understand and describe the significance of measuring central tendency of continuous data
 * Understand the formula and intuition behind the mean, median, mode and modal class
 * Compare mean-median-mode, along with histograms to explain the central tendency of given data
