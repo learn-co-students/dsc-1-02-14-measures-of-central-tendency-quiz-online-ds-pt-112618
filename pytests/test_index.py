@@ -4,14 +4,14 @@ import pytest
 import importlib
 
 # importing objects from the jupyter notebook here
-from ipynb.fs.full.index import # variable names go here
-
-# format for writing tests
-# all functions that are to be run by test suite *must* be prepended with test_
-def test_name_of_test_here():
-    assert True, "AssertionError will *not* raise and this message will not show"
-    assert False, "AssertionError will raise and output this message in the trace"
+from ipynb.fs.full.index import * # variable names go here
 
 # tests to ensure correct environment is loaded
 def test_conda_environment_activated():
     assert importlib.util.find_spec("obscure"), "It looks like you didn't 'conda activate learn-env' - try that then run the test again!"
+
+# format for writing tests
+# all functions that are to be run by test suite *must* be prepended with test_
+def test_no_tests_yet():
+    assert True, "AssertionError will *not* raise and this message will not show"
+    assert False, "No additional tests here yet - but you seem to have you r environment setup well, so just move on to the next lesson!"
