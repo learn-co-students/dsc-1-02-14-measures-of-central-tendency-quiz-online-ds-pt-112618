@@ -12,6 +12,6 @@ def test_conda_environment_activated():
 
 # format for writing tests
 # all functions that are to be run by test suite *must* be prepended with test_
-def test_no_tests_yet():
-    assert True, "AssertionError will *not* raise and this message will not show"
-    assert False, "No additional tests here yet - but you seem to have you r environment setup well, so just move on to the next lesson!"
+# def test_no_tests_yet():
+#     assert True, "AssertionError will *not* raise and this message will not show"
+#     assert False, "No additional tests here yet - but you seem to have you r environment setup well, so just move on to the next lesson!"
