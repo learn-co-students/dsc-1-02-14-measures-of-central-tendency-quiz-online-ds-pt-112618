@@ -7,6 +7,8 @@ You will be able to:
 * Understand the formula and intuition behind the mean, median, mode and modal class
 * Compare mean-median-mode, along with histograms to explain the central tendency of given data
 
+**Note, for these exercises, you do not need to write code to answer them - we'll do that later. Just do them by hand or with a calculator to make sure you're comfortable with the process of calculating the answers!**
+
 ### Exercise 1
 Calculate the mean, median and mode for this data set: 
 ```
